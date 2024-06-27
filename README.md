@@ -18,7 +18,7 @@ I am a passionate graphic designer with experience in creating a variety of digi
 - [View](proposals-and-profiles)
 
 ### Graphic Articles
-- [View](link-to-folder)
+- [View](graphic-articles)
 
 Feel free to explore my work, and don't hesitate to contact me if you have any questions or if you'd like to discuss a potential project.
 
