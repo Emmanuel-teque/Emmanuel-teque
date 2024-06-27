@@ -9,7 +9,7 @@ I am a passionate graphic designer with experience in creating a variety of digi
 ## Portfolio
 
 ### Print Design
-- [View](link-to-folder)
+- [View](print-design)
 
 ### Advertisement and Poster Design
 - [View](link-to-folder)
