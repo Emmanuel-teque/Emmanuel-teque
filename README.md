@@ -15,7 +15,7 @@ I am a passionate graphic designer with experience in creating a variety of digi
 - [View](advertisement-and-poster-design)
 
 ### Proposal and Profile Creation
-- [View](link-to-folder)
+- [View](proposals-and-profiles)
 
 ### Graphic Articles
 - [View](link-to-folder)
