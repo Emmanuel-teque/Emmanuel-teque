@@ -12,7 +12,7 @@ I am a passionate graphic designer with experience in creating a variety of digi
 - [View](print-design)
 
 ### Advertisement and Poster Design
-- [View](link-to-folder)
+- [View](advertisement-and-poster-design)
 
 ### Proposal and Profile Creation
 - [View](link-to-folder)
